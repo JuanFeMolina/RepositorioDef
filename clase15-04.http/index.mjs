@@ -1,6 +1,6 @@
 //modulo http
 import http from 'node:http'
-import fsp from 'node.fs/promises'
+import fsp from 'node:fs/promises'
 import path from 'node:path'
 
 const app = http.createServer(async (peticion, respuesta) => { // se va a ejecutar solamente cuando haya una peticion o request
