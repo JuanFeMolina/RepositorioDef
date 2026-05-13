@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "marca": "Toyota",
+        "modelo": "Hilux SRV",
+        "anio": 2021,
+        "precio": 32000,
+        "kilometraje": 45000,
+        "estado": "Usado"
+    },
+    {
+        "id": 2,
+        "marca": "Volkswagen",
+        "modelo": "Amarok V6",
+        "anio": 2023,
+        "precio": 45000,
+        "kilometraje": 12000,
+        "estado": "Usado"
+    },
+    {
+        "id": 3,
+        "marca": "Ford",
+        "modelo": "Ranger Raptor",
+        "anio": 2024,
+        "precio": 60000,
+        "kilometraje": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 4,
+        "marca": "Chevrolet",
+        "modelo": "S10 High Country",
+        "anio": 2020,
+        "precio": 28000,
+        "kilometraje": 80000,
+        "estado": "Usado"
+    },
+    {
+        "id": 5,
+        "marca": "Nissan",
+        "modelo": "Frontier Pro-4X",
+        "anio": 2023,
+        "precio": 42000,
+        "kilometraje": 5000,
+        "estado": "Usado"
+    },
+    {
+        "id": 6,
+        "marca": "Renault",
+        "modelo": "Alaskan Iconic",
+        "anio": 2022,
+        "precio": 31000,
+        "kilometraje": 35000,
+        "estado": "Usado"
+    },
+    {
+        "id": 7,
+        "marca": "Fiat",
+        "modelo": "Toro Volcano",
+        "anio": 2024,
+        "precio": 25000,
+        "kilometraje": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 8,
+        "marca": "Ford",
+        "modelo": "Maverick Lariat",
+        "anio": 2023,
+        "precio": 35000,
+        "kilometraje": 18000,
+        "estado": "Usado"
+    },
+    {
+        "id": 9,
+        "marca": "RAM",
+        "modelo": "1500 Laramie",
+        "anio": 2021,
+        "precio": 55000,
+        "kilometraje": 60000,
+        "estado": "Usado"
+    },
+    {
+        "id": 10,
+        "marca": "Ford",
+        "modelo": "F-150 Lariat",
+        "anio": 2024,
+        "precio": 75000,
+        "kilometraje": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 11,
+        "marca": "Toyota",
+        "modelo": "SW4 Diamond",
+        "anio": 2022,
+        "precio": 48000,
+        "kilometraje": 20000,
+        "estado": "Usado"
+    },
+    {
+        "id": 12,
+        "marca": "Volkswagen",
+        "modelo": "Saveiro Trendline",
+        "anio": 2021,
+        "precio": 15000,
+        "kilometraje": 55000,
+        "estado": "Usado"
+    },
+    {
+        "id": 13,
+        "marca": "Chevrolet",
+        "modelo": "Montana Premier",
+        "anio": 2024,
+        "precio": 24000,
+        "kilometraje": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 14,
+        "marca": "Toyota",
+        "modelo": "Hilux Conquest",
+        "anio": 2024,
+        "precio": 52000,
+        "kilometraje": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 15,
+        "marca": "Nissan",
+        "modelo": "Frontier Attack",
+        "anio": 2021,
+        "precio": 30000,
+        "kilometraje": 42000,
+        "estado": "Usado"
+    },
+    {
+        "id": 16,
+        "marca": "Ford",
+        "modelo": "Ranger Limited",
+        "anio": 2023,
+        "precio": 41000,
+        "kilometraje": 15000,
+        "estado": "Usado"
+    },
+    {
+        "id": 17,
+        "marca": "RAM",
+        "modelo": "2500 Heavy Duty",
+        "anio": 2022,
+        "precio": 85000,
+        "kilometraje": 25000,
+        "estado": "Usado"
+    },
+    {
+        "id": 18,
+        "marca": "Fiat",
+        "modelo": "Strada Adventure",
+        "anio": 2020,
+        "precio": 12000,
+        "kilometraje": 90000,
+        "estado": "Usado"
+    },
+    {
+        "id": 19,
+        "marca": "Volkswagen",
+        "modelo": "Amarok Extreme",
+        "anio": 2024,
+        "precio": 55000,
+        "kilometraje": 0,
+        "estado": "Nuevo"
+    },
+    {
+        "id": 20,
+        "marca": "Chevrolet",
+        "modelo": "S10 LTZ",
+        "anio": 2022,
+        "precio": 33000,
+        "kilometraje": 30000,
+        "estado": "Usado"
+    }
+]
