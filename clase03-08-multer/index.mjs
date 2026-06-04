@@ -22,7 +22,7 @@ const almacenamiento = multer.diskStorage({
     filename: function (req, file, cb) {
 
         // obtengo la extension desde el mimetype
-        //const extensionArchivo = mime.extensionArchivo(file.mimetype)
+        //const extensionArchivo = mime.extensionArchivo(file.mimetypes)
         // creo el nombre del archivo con un identificador unico nanoid
         const nombreImg = nanoid() + '.png' // '.'  + extensionArchivo //genera un id
         cb(null, nombreImg)
